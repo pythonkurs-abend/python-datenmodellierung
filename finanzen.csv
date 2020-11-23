@@ -1,0 +1,8 @@
+Datum;Typ;Von/Nach;Text;Wert;KontenArt
+2020-10-01;Einnahme;Konto;Gehalt;500.00;Konto
+2020-10-01;Ausgabe;Konto;Miete;-300.00;Konto
+2020-11-01;Einnahme;Konto;Gehalt;500.00;Konto
+2020-11-20;Umbuchung;Konto;Auf Kasse;-50.00;Konto
+2020-11-20;Umbuchung;Kasse;Von Konto;50.00;Kasse
+2020-11-23;Ausgabe;Kasse;Glühwein;-5.00;Kasse
+2020-11-23;Ausgabe;Kasse;Tochter Geschenk;-14.99;Kasse
